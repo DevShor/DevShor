@@ -1,16 +1,14 @@
-### Hi there 👋
+### 👊 Hello, I'm Anderson!
 
-<!--
-**DevShor/DevShor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DevShor)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#search/developer.shor@gmail.com?compose=new)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-barbosa-2a2b42193/)
+<br/>
+![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=DevShor&show_icons=true&theme=highcontrast)
 
-Here are some ideas to get you started:
+### 💻 Technologies that are used
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevShor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)! 
+
+<br/>
+<p>"O que você pensa de si mesmo é muito mais importante do que o que os outros pensam de você." -- Séneca </p>
