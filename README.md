@@ -9,7 +9,7 @@
 
 ### 💻 Technologies that are used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevShor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)! 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevShor&layout=compact)](#)! 
 
 <br/>
 <p>"O que você pensa de si mesmo é muito mais importante do que o que os outros pensam de você." -- Séneca </p>
